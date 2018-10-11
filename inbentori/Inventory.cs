@@ -47,7 +47,8 @@ public class Inventory : MonoBehaviour
         AddItem(1001);
         // 테스트용 명령어
         AddItem(4001);
-        // 물약 추가하기
+        // 물약 추가하기 
+
     }
 
     void Update()
