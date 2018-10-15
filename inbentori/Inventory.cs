@@ -94,7 +94,7 @@ public class Inventory : MonoBehaviour
             {
                 Rect slotRect = new Rect(i * 52 + 100, j * 52 + 30, 50, 50);
                 // 박스 분할하기
-                GUI.Box(slotRect, "", skin.GetStyle("slot background"));
+                GUI.Box(slotRect, "", skin.GetStyle("slotbackground"));
                 // 각 박스의 생성 위치를 설정해주는 곳입니다. skin.GetStyle은 이전에 만들었던 skin을 불러오는 것임
 
                 // 기능 추가하기

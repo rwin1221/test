@@ -1353,9 +1353,9 @@ MonoBehaviour:
     m_StretchWidth: 1
     m_StretchHeight: 0
   m_CustomStyles:
-  - m_Name: tooltip
+  - m_Name: slotbackground
     m_Normal:
-      m_Background: {fileID: 2800000, guid: 4ec5b0af0c7e484448795402e85d1413, type: 3}
+      m_Background: {fileID: 2800000, guid: 374ff35909847fe4f99d85b80a55796e, type: 3}
       m_ScaledBackgrounds: []
       m_TextColor: {r: 0, g: 0, b: 0, a: 1}
     m_Hover:
@@ -1419,9 +1419,9 @@ MonoBehaviour:
     m_FixedHeight: 0
     m_StretchWidth: 1
     m_StretchHeight: 0
-  - m_Name: Slot background
+  - m_Name: tooltip
     m_Normal:
-      m_Background: {fileID: 2800000, guid: 374ff35909847fe4f99d85b80a55796e, type: 3}
+      m_Background: {fileID: 2800000, guid: 4ec5b0af0c7e484448795402e85d1413, type: 3}
       m_ScaledBackgrounds: []
       m_TextColor: {r: 0, g: 0, b: 0, a: 1}
     m_Hover:
